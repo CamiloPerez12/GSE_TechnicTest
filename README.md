@@ -15,3 +15,21 @@ press command + s to save.
 6. in terminal run "pod install".
 7. Open the project on GSE_TechnicTest.xworkspace to run the project.
 8. Enjoy.
+
+## Pantalla Carga
+
+En esta pantalla se muetra el logo de la empresa GSE.
+
+<img src="./Assets/Images/Splash%20Screen.png" width=270 height=555>
+
+## Pantalla Home
+
+En esta pantalla se presentan una lista con los datos básicos de los usuarios de la compañia GSE, por medio de una consulta de los datos a la API.
+
+<img src="./Assets/Images/Home%20Screen.png" width=270 height=555>
+
+## Pantalla Detalles
+
+En esta pantalla se presenta los datos mas detallados del usuario seleccionado de la pantalla anterior, por medio de una consulta de los datos a la API.
+
+<img src="./Assets/Images/Details%20Screen.png" width=270 height=555>
